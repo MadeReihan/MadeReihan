@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Made Reihan
-- 👀 I’m interested in Web Developer and Cyber Security
-- 🌱 I’m currently learning Front End Developer
 - 📫 You can reach me in instagram @madeereihan_
 
 <!---
